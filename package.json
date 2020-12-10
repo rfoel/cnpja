@@ -1,0 +1,24 @@
+{
+  "name": "cnpja",
+  "version": "0.0.1-dev.0",
+  "description": "Enriqueça dados empresariais com nossa API de consultas a Receita, I.E. e Simples",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfoel/cnpja.git"
+  },
+  "keywords": [
+    "cnpj",
+    "api",
+    "cnpja"
+  ],
+  "author": "Rafael Franco <rafaelfr@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rfoel/cnpja/issues"
+  },
+  "homepage": "https://github.com/rfoel/cnpja#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
