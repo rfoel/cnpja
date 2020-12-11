@@ -1,6 +1,6 @@
 {
   "name": "cnpja",
-  "version": "0.0.1-dev.9",
+  "version": "1.0.0",
   "description": "Enriqueça dados empresariais com nossa API de consultas a Receita, I.E. e Simples",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
